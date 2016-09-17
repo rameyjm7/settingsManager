@@ -1,5 +1,5 @@
 # settingsManager
-Save and load values from a file and use them in functions
+QT4 BASED Save and load values from a file and use them in functions
 
 //! header file below
 
